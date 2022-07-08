@@ -1,4 +1,5 @@
 <h1>Renomear Arquivos</h1>
+<hr>
 <br>
 <p>O projeto tem o objetivo de renomear os arquivos de uma pasta.</p>
 <p>Para isso será necessario passar:</p>
@@ -8,4 +9,5 @@
   <li>E por fim o tipo do arquivo.</li>
 </ul>
 <br>
-<p>Após esses passos, é só retornar a pasta e os arquivos já estarão renomeados.</p>
+<hr>
+<p>Após esses passos, é só retornar para a pasta e os arquivos já estarão renomeados.</p>
