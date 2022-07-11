@@ -5,6 +5,8 @@
 <ul>
   <li>O caminho para a pasta onde serão alterados os arquivos;</li>
   <li>O novo nome para os arquivos;</li>
+  <li>O tipo do arquivo;</li>
+  <li>O valor inicial a ser acrescentado ao lado do nome;</li>
   <li>E por fim o tipo do arquivo.</li>
 </ul>
 <br>
